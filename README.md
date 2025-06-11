@@ -1,4 +1,4 @@
-# myReactproject
+# Django Item Management API
 
 ## Project Description
 
